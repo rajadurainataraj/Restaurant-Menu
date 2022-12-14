@@ -207,6 +207,8 @@ input {
     height: 71.3px;
     margin-top: 20px;
     cursor: pointer;
+     margin:0 auto;
+/*     margin-top: 20px; */
 }
 
 .thanks {
