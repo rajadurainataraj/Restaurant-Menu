@@ -156,20 +156,6 @@ form {
     flex-direction: column;
 }
 
-.submit {
-    margin-top: 10px;
-    color: white;
-    width: 475px;
-    height: 71px;
-    font-family: 'Verdana';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 31px;
-    background: #16DB99;
-    border: none;
-}
-
 .popup {
     display: none;
     position: fixed;
@@ -209,6 +195,7 @@ input {
     cursor: pointer;
      margin:0 auto;
     margin-top: 20px;
+    border-radius: 4px;
 }
 
 .thanks {
